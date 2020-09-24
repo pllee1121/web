@@ -12,6 +12,7 @@ var rules = [
   "||zh.b-ok.global",
   "||digitalocean.com",
   "||duyaoss.com",
+  "||raw.githubusercontent.com",
   "||gitbook.io",
   "||github.io",
   "||github.com",
